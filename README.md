@@ -27,6 +27,3 @@ ESte código é uma página simples que apresenta saudações e mensagens aleat�
     </td>
   </tr>
 </table>
-
-##
-<div align="center">Made by <a href="https://github.com/fessrodrigues">Eli</a>.</div>
