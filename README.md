@@ -1,11 +1,11 @@
 <h1>
-    <span> Meu 'Olá Mundo!'</span>
+    <span> 'Olá Mundo!'</span>
 </h1>
 
 Repositório desenvolvido para fins educativos e de treino.
 
 ## Objetivo
-ESte código é uma página simples em que apresenta saudações e mensagens aleatórias, apenas para uso didático.
+ESte código é uma página simples que apresenta saudações e mensagens aleatórias, e será modificada aleatoriamente, com erros e acertos para fins didáticos. 
 
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
