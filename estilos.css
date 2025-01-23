@@ -1,0 +1,25 @@
+.typing-effect {
+    display: inline-block;
+    border-right: .15em solid #000;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black }
+}
+
+footer {
+    font-size: 0.8em;
+    text-align: center;
+    padding: 1em 0;
+    width: 100%;
+    background-color: #f1f1f1;
+}
